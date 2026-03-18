@@ -422,7 +422,7 @@ ERD DIangram to show relationships between Users, Movie, Community Forum (Posts 
 - Main Content: Dynamic content based on the selected page (e.g., movie list, movie details, forum posts, etc).
 - Footer: Links to social media, contact information, and copyright notice.
 
-![Mobile navigation](readme_docs/images/mob_nav.png) ![Desktop Navigation](readme_docs/images/desktop_nav.png) ![Footer section](readme_docs/images/Footer.png)
+![Main Landing Page](readme_docs/images/reeltalk-landing.png) ![Mobile Navigation](readme_docs/images/mob_nav.png)
 <br>
 
 ### *Surface Plane*
